@@ -1,5 +1,4 @@
 ## Workflow for scvi integration of RNAseq data
-## February 12, 2025
 
 ## Pre-requisites 
 - Reticulate environment installed in R

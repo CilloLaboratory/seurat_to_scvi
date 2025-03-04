@@ -1,4 +1,4 @@
-name: /ix1/acillo/arc85/packages/scvi-env
+name: scvi-env
 channels:
   - defaults
 dependencies:
